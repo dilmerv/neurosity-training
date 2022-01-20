@@ -4,11 +4,16 @@
   "description": "Neurosity the crown device BCI training",
   "main": "index.js",
   "scripts": {
+    "start": "node index.js",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "keywords": [
     "notion"
   ],
   "author": "Dilmer",
-  "license": "MIT"
+  "license": "MIT",
+  "dependencies": {
+    "@neurosity/notion": "^5.7.0",
+    "dotenv": "^14.2.0"
+  }
 }
