@@ -1,0 +1,14 @@
+{
+  "name": "neurosity-training",
+  "version": "1.0.0",
+  "description": "Neurosity the crown device BCI training",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "notion"
+  ],
+  "author": "Dilmer",
+  "license": "MIT"
+}
